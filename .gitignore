@@ -1,0 +1,6 @@
+# ignore checkpoints
+checkpoints/*
+# ignore pyc
+*.pyc
+# ignore egg-info
+*.egg-info
